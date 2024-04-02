@@ -1,0 +1,14 @@
+.cols {
+    height: 100vh;
+    background-color: #f1c8cf;
+}
+.app {
+    background-color: #f1c8cf;
+}
+.ull li {
+    padding: 10px 30px;
+    text-align: center;
+}
+.ull li a {
+    text-decoration: none;
+}
